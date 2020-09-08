@@ -16,4 +16,8 @@ public class CommonTestUtil {
         Log.e(CommonTestUtil.class.getName(),content);
     }
 
+    public static String getTag(){
+        return "这是commont包";
+    }
+
 }
